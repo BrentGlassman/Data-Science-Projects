@@ -8,6 +8,7 @@ import time
 if __name__ == '__main__':
 
 	mat_contents = sio.loadmat('MNIST_20x20.mat')
+	#This file can be found in the Data-Science-Projects directory
 	t0 = time.clock()
 	#for key in mat_contents.keys():
   		#print(key)
