@@ -1,1 +1,7 @@
-a
+This Classifier takes in 20x20 pixel images of hand-written digits. Each image has a number label.
+An average image is taken using 50% of the 70000 images.
+A dot product Kernel is used to classify the images by comparing 2 digits at a time. (i.e. is this image a one or a two?)
+
+The program outputs how well each digit does compared to other digits in an array.
+
+Takes ~10mins to run
