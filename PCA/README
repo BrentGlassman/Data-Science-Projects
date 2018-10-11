@@ -1,3 +1,8 @@
+PCA_Faces.py:
 This program captures the Principal components from facial data.
-
 The data comes from Yale_64x64.mat
+
+PCA_Circles.py:
+This program captures the Principal components from circles drawn in different positions with the same radius. 
+This data is 2-dimensional since every image is defined by the center of the circle. 
+The data comes from circles_32x32.mat
