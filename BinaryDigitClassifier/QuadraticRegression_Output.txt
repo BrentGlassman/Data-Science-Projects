@@ -1,4 +1,4 @@
-Number		ComparedToDigit	  CorrectlyClassified	TotalComparisons		%Correct
+Number		ComparedToDigit	    CorrectlyClassified	TotalComparisons		%Correct
 0			1			3448			3451			0.999130687
 1			0			3937			3938			0.999746064
 0			2			3440			3451			0.996812518
